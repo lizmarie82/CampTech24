@@ -11,7 +11,7 @@ DHT dht(DHTPIN, DHTTYPE);
  
 void setup() {
   // Inicializamos comunicación serie
-  Serial.begin(9600);
+  Serial.begin(115200);
  
   // Comenzamos el sensor DHT
   dht.begin();
