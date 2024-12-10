@@ -13,5 +13,7 @@ Conocimientos básicos en programación (si no, ¡no te preocupes, aquí aprende
 
 
 Contacto
+
 ¿Tienes dudas o sugerencias? Escríbenos a:
+
 Correo: lizmarielorain@gmail.com
