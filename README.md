@@ -16,4 +16,4 @@ Contacto
 
 ¿Tienes dudas o sugerencias? Escríbenos a:
 
-Correo: lizmarielorain@gmail.com
+Correo: lizmarieloraine@gmail.com
