@@ -1,4 +1,5 @@
-CampTech: Proyectos y Recursos
+CampTech: 
+Proyectos y Recursos
 ¡Bienvenido al repositorio oficial de CampTech! Aquí encontrarás todo lo necesario para los proyectos que desarrollaremos durante el programa. Nuestro objetivo es aprender y crear juntos usando tecnologías como la ESP32-CAM, sensores, actuadores, y más.
 
 Descripción del Proyecto
